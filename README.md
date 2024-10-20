@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @NilNorris
-- 👀 I’m interested in computer programming, application development, and especially on machine learning, deep learning and AI
-- 🌱 I’m currently learning on Mathematics and Informatics
-- 💞️ I developed apps for a long time, and now I study more at ml, dl and ia
--    
+👋 Hi, I'm Norris.
+💻I'm a passionate full-stack developer specializing in web, mobile, and desktop applications. I love tackling technical challenges and designing efficient solutions across various platforms.
 
-
+📊I'm particularly interested in advanced fields of Artificial Intelligence, especially Machine Learning (ML) and Deep Learning (DL). I'm constantly exploring the latest technologies to innovate and improve my projects.
 
 <!---
 NilNorris/NilNorris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
